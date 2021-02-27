@@ -1,0 +1,22 @@
+Iwan Notes :
+========================
+1. Gunakan nvm untuk memudahkan perpindahan antar versi nodejs
+2. Ketika akan memulai project nodejs gunakan 
+	$ npm init --yes
+	$ node index.js / $ node index
+3. Gunakan framework expressJS untuk webserver nodejs
+	$ npm install express
+4. Untuk membuat struktur expressJS otomatis gunakan express generator
+	$ npm install express-generator -g
+5. Gunakan nodemon untuk automatically run nodejs, bisa juga foreverjs / PM2
+	$ npm install nodemon -g
+6. Untuk mengatur port selain 3000, gunakan
+	$ export PORT=5000
+7. Validation input node
+	$ npm install joi
+8. Project
+
+
+Optional :
+========================
+Gunakan JSON Formatter pada Chrome Browser untuk tampilan json yang mudah dibaca
